@@ -1,3 +1,4 @@
+26e4b8e Finishing of Task 2.4
 9e31758 Finishing of Task 2.3
 ec93dbc Finishing of Task 2.2
 a967413 Finishing of Task 2.1
